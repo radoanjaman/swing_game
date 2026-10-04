@@ -1,0 +1,32 @@
+# Compiled Java class files
+*.class
+
+# Eclipse output directory (where .class files are compiled)
+bin/
+
+# Eclipse project files & metadata
+.metadata/
+.settings/
+.project
+.classpath
+
+# IntelliJ IDEA & VS Code artifacts (if opened in other editors)
+*.iml
+.idea/
+*.iws
+.vscode/
+
+# Archive files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
